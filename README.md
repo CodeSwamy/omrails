@@ -1,0 +1,1 @@
+This is a sample application by Karthik Kumaraswamy for Ruby on rails
